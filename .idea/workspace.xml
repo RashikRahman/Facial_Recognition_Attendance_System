@@ -24,7 +24,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Face-Recogntion-PyQt-master/Face_Detection_PyQt_base" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.Face_Attendance">
@@ -89,6 +89,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2106" y="274" key="FileChooserDialogImpl" timestamp="1609812085781">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2106" y="274" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1609812085781" />
     <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1609808443654">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
