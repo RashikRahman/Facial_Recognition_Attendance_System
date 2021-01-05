@@ -1,0 +1,10 @@
+cmake
+dlib
+opencv-python
+numpy
+face-recognition
+csv
+datetime
+skimage
+PyQt5
+pyqt5-tools
