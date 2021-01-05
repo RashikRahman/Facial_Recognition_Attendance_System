@@ -29,7 +29,7 @@ def markAttendance(name):
         # Add contents of list as last row in the csv file
         now = datetime.now()
         timeStr = now.strftime('%H:%M')
-        datestr = now.strftime('%d:%m:%Y')
+        datestr = now.strftime('%d/%m/%Y')
         csv_writer.writerow([name,timeStr,datestr])
 
 

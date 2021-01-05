@@ -27,6 +27,8 @@ Now you have installed all the dependencies. So just open the Face_Attendance.py
 **Make sure** you have a webcam attached to your device.
 
 ## Here's an output demo.
+![Result](./result.gif)
 
+**The performance of the program depends on CPU**
 
  
