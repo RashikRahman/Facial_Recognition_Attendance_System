@@ -14,9 +14,15 @@ as shown in the tutorial.
 
 **Next** You need to locate to the directory where you clone this repo. You can use command promt
 or anaconda powershell. To locate to repo you just need to type in this command
+
 ```ini
 cd 'path to repo'
 ```
+**Next** you may need to upgrade pip using the following command
+```ini
+python -m pip install --user --upgrade pip
+```
+
 After that type in the following command.
 
 ```ini
